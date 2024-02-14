@@ -6,9 +6,9 @@ same as the secret_num, tell them if their guess is too low or
 too high, and ask them to have another guess. If they enter the same 
 value as secret_num, display the message 'Well done, you took [count] attempts'.
 
-Function to uses: print()
-Operator: +=, <
-Structure: while 
+Function to uses: str(), input(), int(), print()
+Operator: !=, <, +
+Structure: while, if - else
 '''
 def main():
 
